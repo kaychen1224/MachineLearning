@@ -1,6 +1,6 @@
 # MachineLearning<br>
 
-Machine learning basics for newbies<br>
+Machine learning basics for newbies<br><br>
 1_PythonBasics - Variable, container, numpy, ndarray, loop, condition, function, class, matplotlib<br>
 2_MachineLearningBasics<br>
 3_ImageClassification<br>
